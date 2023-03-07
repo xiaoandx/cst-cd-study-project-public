@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books xmlns="http://www.contoso.com/books">
+  <book name="zw">
+    <author>asp</author>
+    <title>C#入门教程</title>
+    <publisher>人民出版社</publisher>
+  </book>
+  <book name="ls">
+    <author>java</author>
+    <title>Java入门教程</title>
+    <publisher>人民出版社</publisher>
+  </book>
+</books>
